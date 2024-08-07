@@ -4,6 +4,12 @@
 
 In today's competitive business environment, retaining customers is crucial for long-term success. Churn analysis is a key technique used to understand and reduce customer attrition. By examining customer data to identify patterns and reasons behind customer departures, businesses can predict which customers are at risk of leaving and understand the factors driving their decisions. This knowledge allows companies to take proactive steps to improve customer satisfaction and loyalty.
 
+## Dashboard Screenshots 
+![image](https://github.com/user-attachments/assets/e78b6043-4c96-46ae-bd1d-85627f954a8a)
+![image](https://github.com/user-attachments/assets/62c1ee24-554b-4107-a2a5-c815f15429f1)
+
+
+
 ## Data & Resources
 
 - **Colours Used:** #4A44F2, #9B9FF2, #F2F2F2, #A0D1FF
